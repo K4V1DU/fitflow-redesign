@@ -16,4 +16,6 @@ This folder will hold the AI service for FitFlow, kept separate from the main ba
 
 The reasoning for keeping this as its own service instead of building it into the main backend is in [docs/adr.md](../docs/adr.md).
 
+## Status
 
+No code yet. This folder is a placeholder until development starts.

@@ -13,4 +13,4 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Placeholder step
-        run: echo "Add lint and test commands here once the app code exists."
+        run: echo "lint and test commands"
